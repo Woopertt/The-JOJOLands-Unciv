@@ -1,10 +1,10 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "The JOJOLands",
+		"leaderName": "Meryl Mei Qi",
+		"adjective": ["Good"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "We come in peace!",
 		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
@@ -29,10 +29,11 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"uniquename": "Mechanisms of the Lava Rock",
+		"uniques": ["[+1] Sight <for [{Military} {Land}] units>","[-50]% Gold cost of acquiring tiles [in all cities]","[-50]% Unhappiness from [Population] [in all cities]","[+2 Gold] from every specialist [in all cities]"
+			   ,"Enables embarkation for land units <starting from the [Ancient era]> <Suppress warning [*contains a conditional on a unit movement unique*]>","Enables [All] units to enter ocean tiles <starting from the [Ancient era]>","[+1] Sight <for [Embarked] units>",],
+		"cities": ["Hawai'i","Oahu","Honolulu","Aloha Land","Rohan's House","McKinely High School","That Hospital","The Usagi House","Joestar abode",
+			    "Joestar boat from the first page","volcano land","Elyos","Chipmunk hole","Bobby Jean's mansion","Gus Fring's lab","Morioh","Joshuland",
+			   "Howler's Headquarters","Land registry place","Lythos","Firene","Brodia","Solm","Elusia","Paco Park"]
 	}
 ]
