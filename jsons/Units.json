@@ -1,13 +1,14 @@
 [
 	{
 		"name": "Jodio",
-		"unitType": "Jodio",
+		"unitType": "Gooner",
 		"uniqueTo": "The JOJOLands",
 		"movement": 2,
 		"strength": 90,
 		"rangedStrength": 36,
 		"range": 2,
 		"cost": 40,
+		"uniques": ["Limited to [1] per Civilization","Blast radius [3]","No defensive terrain penalty","May enter foreign tiles without open borders"],
 		"requiredTech": "Agriculture",
 		"attackSound": "phasers"
 	}
