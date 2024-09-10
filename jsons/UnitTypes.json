@@ -1,38 +1,10 @@
 [
     {
-        "name": "Jodio",
-        "movementType": "Land"
-    },
-    {
-        "name": "Dragona",
-        "movementType": "Land"
-    },
-    {
-        "name": "Paco",
-        "movementType": "Land"
-    },
-    {
-        "name": "Usagi",
-        "movementType": "Land"
-    },
-    {
-        "name": "Charming Man",
+        "name": "Gooner",
         "movementType": "Land"
     },
     {
         "name": "Rohan",
-        "movementType": "Land"
-    },
-    {
-        "name": "Wild Cat Size",
-        "movementType": "Land"
-    },
-    {
-        "name": "Bobby Jean",
-        "movementType": "Land"
-    },
-    {
-        "name": "Lulu",
         "movementType": "Land"
     },
     {
@@ -44,7 +16,7 @@
         "movementType": "Land"
     },
     {
-        "name": "Alear",
+        "name": "Divine Dragon",
         "movementType": "Land"
     },
     {
